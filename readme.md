@@ -6,52 +6,52 @@
 
 ###
 
-<p align="left">Login</p>
+<h3 align="left">Login</h3>
 
 ###
 
 <div align="center">
-  <img height="600" width="800" src="https://github.com/RodrigoPerezRP/Clone-Instagram-PHP/blob/master/assets/Login.PNG"  />
+  <img height="500" width="800" src="https://github.com/RodrigoPerezRP/Clone-Instagram-PHP/blob/master/assets/Login.PNG"  />
 </div>
 
 ###
 
-<p align="left">Register</p>
+<h3 align="left">Register</h3>
 
 ###
 
 <div align="center">
-  <img height="600" width="800" src="https://github.com/RodrigoPerezRP/Clone-Instagram-PHP/blob/master/assets/Register.PNG"  />
+  <img height="500" width="800" src="https://github.com/RodrigoPerezRP/Clone-Instagram-PHP/blob/master/assets/Register.PNG"  />
 </div>
 
 ###
 
-<p align="left">Menu Principal</p>
+<h3 align="left">Menu Principal</h3>
 
 ###
 
 <div align="center">
-  <img height="600" width="800" src="https://github.com/RodrigoPerezRP/Clone-Instagram-PHP/blob/master/assets/Principal.PNG"  />
+  <img height="500" width="800" src="https://github.com/RodrigoPerezRP/Clone-Instagram-PHP/blob/master/assets/Principal.PNG"  />
 </div>
 
 ###
 
-<p align="left">Mi Perfil</p>
+<h3 align="left">Mi Perfil</h3>
 
 ###
 
 <div align="center">
-  <img height="600" width="800" src="https://github.com/RodrigoPerezRP/Clone-Instagram-PHP/blob/master/assets/MyProfile.PNG"  />
+  <img height="500" width="800" src="https://github.com/RodrigoPerezRP/Clone-Instagram-PHP/blob/master/assets/MyProfile.PNG"  />
 </div>
 
 ###
 
-<p align="left">Otro Perfil</p>
+<h3 align="left">Otro Perfil</h3>
 
 ###
 
 <div align="center">
-  <img height="600" width="800" src="https://github.com/RodrigoPerezRP/Clone-Instagram-PHP/blob/master/assets/OtherProfile.PNG"  />
+  <img height="500" width="800" src="https://github.com/RodrigoPerezRP/Clone-Instagram-PHP/blob/master/assets/OtherProfile.PNG"  />
 </div>
 
 ###
