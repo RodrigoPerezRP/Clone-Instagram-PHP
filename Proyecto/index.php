@@ -20,7 +20,7 @@ if (isset($_SESSION['idUsuario'])) {
   <body>
     <div class="flex h-screen w-full items-center justify-center bg-cover bg-no-repeat">
       <div class="rounded-xl  px-36 py-10  backdrop-blur-md max-sm:px-8 ">
-        <div class="text-white">
+        <div class="text-white border border-gray-600 p-6 rounded-2xl">
           <div class="mb-8 flex flex-col items-center">
             <img src="https://www.logo.wine/a/logo/Instagram/Instagram-Glyph-Color-Logo.wine.svg" width="150" alt="" srcset="" />
             <h1 class="mb-2 text-2xl text-gray-800">Instagram</h1>
