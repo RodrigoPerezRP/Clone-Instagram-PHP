@@ -11,7 +11,7 @@
 ###
 
 <div align="center">
-  <img height="600" width="800" src="assets/Login.png"  />
+  <img height="600" width="800" src="https://github.com/RodrigoPerezRP/Clone-Instagram-PHP/blob/master/assets/Login.PNG"  />
 </div>
 
 ###
@@ -21,7 +21,7 @@
 ###
 
 <div align="center">
-  <img height="600" width="800" src="assets/Register.png"  />
+  <img height="600" width="800" src="https://github.com/RodrigoPerezRP/Clone-Instagram-PHP/blob/master/assets/Register.PNG"  />
 </div>
 
 ###
@@ -31,7 +31,7 @@
 ###
 
 <div align="center">
-  <img height="600" width="800" src="assets/Principal.png"  />
+  <img height="600" width="800" src="https://github.com/RodrigoPerezRP/Clone-Instagram-PHP/blob/master/assets/Principal.PNG"  />
 </div>
 
 ###
@@ -41,7 +41,7 @@
 ###
 
 <div align="center">
-  <img height="600" width="800" src="assets/MyProfile.png"  />
+  <img height="600" width="800" src="https://github.com/RodrigoPerezRP/Clone-Instagram-PHP/blob/master/assets/MyProfile.PNG"  />
 </div>
 
 ###
@@ -51,7 +51,7 @@
 ###
 
 <div align="center">
-  <img height="600" width="800" src="assets/OtherProfile.png"  />
+  <img height="600" width="800" src="https://github.com/RodrigoPerezRP/Clone-Instagram-PHP/blob/master/assets/OtherProfile.PNG"  />
 </div>
 
 ###
